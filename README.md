@@ -1,5 +1,7 @@
-I'm software developer, my main passion is GUI desktop applications. I know Qt and C++ very well and have been using it for decade now. I also like python, javascript (for simplicity, modularity, coroutines with async await) and c# (for same reasons plus linq). I am familiar with web technologies: css, html, express, react, nodejs, parcel, webpack, mongodb, restapi. I use git, linux, ansible, docker and cicd pipelines. I'm interested in sql dialects, neural networks, language parsers, signal processing, electronics and automation as well.
+I write desktop applications using Qt: for money at work, and for fun at home.
 
-My values are freedom and love. I'm cisgender man, my pronoun is "he".
+My favourite languages is python, javascript and c++.
 
-Hope you're doing well and would like to hear from you and collaborate on commercial or community software.
+My core values is freedom and respect.
+
+I'm interested in all kind of technologies including web and mobile applications, language parsers, neural networks, electronics and automation.
