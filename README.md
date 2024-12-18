@@ -1,6 +1,10 @@
-I write desktop applications using Qt. [![qt](https://skillicons.dev/icons?i=qt,windows,linux&theme=light)](https://skillicons.dev)
+I write desktop applications using Qt. 
 
-My favourite languages are: [![langs](https://skillicons.dev/icons?i=js,python,cpp&theme=light)](https://skillicons.dev)
+[![qt](https://skillicons.dev/icons?i=qt,windows,linux&theme=light)](https://skillicons.dev)
+
+My favourite languages are: 
+
+[![langs](https://skillicons.dev/icons?i=js,python,cpp&theme=light)](https://skillicons.dev)
 
 My values are: freedom, respect.
 
